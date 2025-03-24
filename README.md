@@ -21,3 +21,15 @@ touch <filename> (make a file)
 .gitignore (contains all the files for Git to ignore)
 
 git checkout <branchName> (checkout to branch with branchName)
+
+git branch (displays all tracked branches)
+
+git branch <branchName> (make a branch with filename)
+
+git checkout <branchName> (checkout to branch)
+
+git merge <branchName> (merge branchName towards the current branch you are on)
+
+git push (push to remote)
+
+git pull (pull from remote)
