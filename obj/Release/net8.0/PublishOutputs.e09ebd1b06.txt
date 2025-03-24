@@ -1,0 +1,5 @@
+C:\Users\ryan\Documents\Visual Studio Code\bin\Release\net8.0\publish\Visual Studio Code.exe
+C:\Users\ryan\Documents\Visual Studio Code\bin\Release\net8.0\publish\Visual Studio Code.dll
+C:\Users\ryan\Documents\Visual Studio Code\bin\Release\net8.0\publish\Visual Studio Code.deps.json
+C:\Users\ryan\Documents\Visual Studio Code\bin\Release\net8.0\publish\Visual Studio Code.runtimeconfig.json
+C:\Users\ryan\Documents\Visual Studio Code\bin\Release\net8.0\publish\Visual Studio Code.pdb
