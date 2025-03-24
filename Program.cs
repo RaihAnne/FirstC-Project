@@ -24,5 +24,6 @@ if(GetIntConsole.TryGetIntFromConsole(out b) == false){
 
 Adder adder = new Adder(a,b);
 Console.WriteLine($"done adding. {adder.AddendA} + {adder.AddendB} = {adder.Result}");
+Console.WriteLine($"Thank you!\n\n");
 
 
