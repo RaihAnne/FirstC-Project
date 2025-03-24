@@ -14,6 +14,9 @@ git rm <filename> (unstage specific file)
 
 git status (shows all stage and unstaged files)
 
+git commit -m '<your commit message>' (commits the staged files)
+================================================================
+
 git remote (display/manage all remote repositories)
 
 touch <filename> (make a file)
