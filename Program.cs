@@ -10,14 +10,14 @@ int b=0;
 
 Console.WriteLine("please input addendA!\n");
 if(GetIntConsole.TryGetIntFromConsole(out a) == false){
-    Console.WriteLine("Something went wrong!\n");
+    Console.WriteLine("Please Input a valid number!\n");
     return;
 }
 
 
 Console.WriteLine("please input addendB!\n");
 if(GetIntConsole.TryGetIntFromConsole(out b) == false){
-    Console.WriteLine("Something went wrong!\n");
+    Console.WriteLine("Please Input a valid number!\n");
     return;
 }
 
